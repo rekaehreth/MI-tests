@@ -1,3 +1,5 @@
+[TOC]
+
 # MI tests in the 2020/20201/1 semester 
 
 Ebben a dokumentumban megtalálható az összes kérdés a 2020/2021/1-es MI előadást ellenőrző canvas tesztekből, illetve a hozzájuk tartozó ~~helytelen válaszok~~ és helyes válaszok. Elsőként a helyes válasz(ok) vannak feltűntetve. 
